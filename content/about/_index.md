@@ -1,1 +1,1 @@
-# Test
+Hi! I am [Gabriel](https://github.com/iamgabrieltv)! This is my blog. I don't know if I'll ever use this. I just wanted to try making one. This blog was made using Hugo and is using the theme [Terminal](https://github.com/panr/hugo-theme-terminal).

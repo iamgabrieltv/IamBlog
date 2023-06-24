@@ -86,7 +86,7 @@ disqusShortname = 'iamblog-1'
 
     [languages.en.params.logo]
       logoText = "IamBlog"
-      logoHomeLink = "/"
+      logoHomeLink = "/IamBlog"
 
     [languages.en.menu]
       [[languages.en.menu.main]]

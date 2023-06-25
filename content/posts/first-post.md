@@ -4,7 +4,6 @@ date = "2023-06-24T21:05:07+02:00"
 author = "Gabriel"
 authorTwitter = "" #do not include @
 cover = "lorem_ipsum.png"
-tags = false
 keywords = ["", ""]
 description = "The first post on this blog."
 showFullContent = false
